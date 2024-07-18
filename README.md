@@ -1,6 +1,8 @@
 # DDSolver
 DDSolver: An Add-In Program for Modeling and Comparison of Drug Dissolution Profiles
 
+https://www.youtube.com/watch?v=LohJ0BO1-vk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
